@@ -16,8 +16,8 @@ if st.button("Generate Growth Assets"):
     else:
         try:
             genai.configure(api_key=api_key)
-            # Using Gemini 1.5 Flash for speed
-            model = genai.GenerativeModel('gemini-1.5-flash') 
+            # Using Gemini 2.5 Flash for speed
+            model = genai.GenerativeModel('gemini-2.5-flash') 
             
             prompt = f"""
             You are the Lead Growth Architect for EPIC Lab.
