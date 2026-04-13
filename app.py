@@ -26,9 +26,9 @@ if st.button("Generate Growth Assets"):
             You are the Lead Growth Architect for EPIC Lab.
             Using the provided text and/or image, generate in english regardless of the lenguage of the info provided:
             1. A TikTok Script (focus on loss aversion/FOMO for the hook, you can use several types of tiktok to engage audience, telling a story, 
-            acting, if you make a sketch, you can use a humor that appelas to entrepeneurs, people into business, etc. use characters like a finance bro, crypto bro
+            acting, if you make a sketch for example,  you can use a humor that appelas to entrepeneurs, people into business, etc. use characters like a finance, crypto bro only two characters at moat
             people who want to get outside the matrix, 9-5 rejection, buy be sure that the final message is that the epic lab is the institutional right way and professional way to do it, this sketch thing 
-            only if it fits, you can use other type of videos, )
+            only if it fits, you can use other type of videos, do not limit yourself and be creative)
             2. 3 Google Ads/meta ads variations (Character optimized for CTR, you should implemment behavioral economics biases, loss aversion, anchoring etc...
             for the output please create  1. key words for the add. 2. titles 3. descriptions 4. sugggested images)
             3. A Landing Page Wireframe (Hero, Social Proof, 3 Pillars)
