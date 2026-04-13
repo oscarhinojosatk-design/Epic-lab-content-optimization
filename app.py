@@ -22,8 +22,8 @@ if st.button("Generate Growth Assets"):
             prompt = f"""
             You are the Lead Growth Architect for EPIC Lab.
             Translate the following text into three assets:
-            1. A TikTok Script (focus on loss aversion/FOMO for the hook)
-            2. 3 Google Ads variations (Character optimized for CTR)
+            1. A TikTok Script (focus on loss aversion/FOMO for the hook, you can use )
+            2. 3 Google Ads/meta ads variations (Character optimized for CTR, you should implemment behavioral ecnom)
             3. A Landing Page Wireframe (Hero, Social Proof, 3 Pillars)
             
             Text to translate:
